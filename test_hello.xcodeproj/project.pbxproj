@@ -35,28 +35,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		647C897E151449D100A6AE6D /* test_hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test_hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		647C897E151449D100A6AE6D /* my_test_application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = my_test_application.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		647C8982151449D100A6AE6D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		647C8984151449D100A6AE6D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		647C8986151449D100A6AE6D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		647C898A151449D100A6AE6D /* test_hello-Info.plist */ = {isa = PBXFileReference; path = "test_hello-Info.plist"; sourceTree = "<group>"; };
+		647C898A151449D100A6AE6D /* test_hello-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test_hello-Info.plist"; sourceTree = "<group>"; };
 		647C898C151449D100A6AE6D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		647C898E151449D100A6AE6D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		647C8990151449D100A6AE6D /* test_hello-Prefix.pch */ = {isa = PBXFileReference; path = "test_hello-Prefix.pch"; sourceTree = "<group>"; };
-		647C8991151449D100A6AE6D /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		647C8990151449D100A6AE6D /* test_hello-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test_hello-Prefix.pch"; sourceTree = "<group>"; };
+		647C8991151449D100A6AE6D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		647C8992151449D100A6AE6D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		647C8994151449D100A6AE6D /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		647C8994151449D100A6AE6D /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		647C8995151449D100A6AE6D /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		647C8997151449D100A6AE6D /* DataViewController.h */ = {isa = PBXFileReference; path = DataViewController.h; sourceTree = "<group>"; };
+		647C8997151449D100A6AE6D /* DataViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataViewController.h; sourceTree = "<group>"; };
 		647C8998151449D100A6AE6D /* DataViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataViewController.m; sourceTree = "<group>"; };
-		647C899A151449D100A6AE6D /* ModelController.h */ = {isa = PBXFileReference; path = ModelController.h; sourceTree = "<group>"; };
+		647C899A151449D100A6AE6D /* ModelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelController.h; sourceTree = "<group>"; };
 		647C899B151449D100A6AE6D /* ModelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelController.m; sourceTree = "<group>"; };
 		647C899E151449D100A6AE6D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		647C89A5151449D100A6AE6D /* test_helloTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test_helloTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		647C89A6151449D100A6AE6D /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		647C89AE151449D100A6AE6D /* test_helloTests-Info.plist */ = {isa = PBXFileReference; path = "test_helloTests-Info.plist"; sourceTree = "<group>"; };
+		647C89AE151449D100A6AE6D /* test_helloTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test_helloTests-Info.plist"; sourceTree = "<group>"; };
 		647C89B0151449D100A6AE6D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		647C89B2151449D100A6AE6D /* test_helloTests.h */ = {isa = PBXFileReference; path = test_helloTests.h; sourceTree = "<group>"; };
+		647C89B2151449D100A6AE6D /* test_helloTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test_helloTests.h; sourceTree = "<group>"; };
 		647C89B3151449D100A6AE6D /* test_helloTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test_helloTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +97,7 @@
 		647C897F151449D100A6AE6D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				647C897E151449D100A6AE6D /* test_hello.app */,
+				647C897E151449D100A6AE6D /* my_test_application.app */,
 				647C89A5151449D100A6AE6D /* test_helloTests.octest */,
 			);
 			name = Products;
@@ -178,7 +178,7 @@
 			);
 			name = test_hello;
 			productName = test_hello;
-			productReference = 647C897E151449D100A6AE6D /* test_hello.app */;
+			productReference = 647C897E151449D100A6AE6D /* my_test_application.app */;
 			productType = "com.apple.product-type.application";
 		};
 		647C89A4151449D100A6AE6D /* test_helloTests */ = {
@@ -343,6 +343,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				SDKROOT = iphoneos;
+				TEST_AFTER_BUILD = YES;
 			};
 			name = Debug;
 		};
@@ -362,6 +363,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
+				TEST_AFTER_BUILD = YES;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -372,7 +374,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "test_hello/test_hello-Prefix.pch";
 				INFOPLIST_FILE = "test_hello/test_hello-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = my_test_application;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -383,7 +385,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "test_hello/test_hello-Prefix.pch";
 				INFOPLIST_FILE = "test_hello/test_hello-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = my_test_application;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -399,6 +401,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "test_hello/test_hello-Prefix.pch";
 				INFOPLIST_FILE = "test_helloTests/test_helloTests-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
@@ -416,6 +419,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "test_hello/test_hello-Prefix.pch";
 				INFOPLIST_FILE = "test_helloTests/test_helloTests-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;

@@ -26,7 +26,8 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in test_helloTests");
+//    STFail(@"Unit tests are not implemented yet in test_helloTests");
+    STAssertTrue(false, @"テストの実行が成功しました!");
 }
 
 @end
